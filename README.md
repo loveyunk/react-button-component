@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save react-button-component
+npm install --save loveyunk/react-button-component
 ```
 
 ## Usage
